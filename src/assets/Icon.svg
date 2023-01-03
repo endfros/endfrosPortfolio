@@ -1,0 +1,51 @@
+<svg data-v-2cb57da0="" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="0 0 110 110" preserveAspectRatio="xMidYMid meet" color-interpolation-filters="sRGB" style="margin: auto;">
+  <rect data-v-2cb57da0="" x="0" y="0" width="100%" height="100%" fill="#ffffff" fill-opacity="0" class="background"/>
+  <g data-v-2cb57da0="" fill="#333" class="iconlinesvg-g iconlinesvg" transform="translate(0,0)">
+    <g class="tp-name" transform="matrix(1,0)">
+      <g transform="translate(0, 0)">
+        <g>
+          <g class="imagesvg">
+            <g>
+              <rect fill="#000000"  fill-opacity="100" rx="15" stroke-width="2" x="0" y="0" width="110" height="110" class="image-rect"/>
+              <svg x="5.5" y="5" width="100" height="100" class="image-svg-svg primary" style="overflow: visible;">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="100 100">
+                  <circle fill="#ffffff" cx="49.31" cy="78.51" r="11.5" transform="matrix(.69 0 0 .69 15.5 15.5)"/>
+                  <circle fill="#ffffff" cx="-13.96" cy="47.66" r="8.02" transform="matrix(.69 0 0 .69 15.5 15.5)"/>
+                  <circle fill="#ffffff" cx="21.07" cy="28.14" r="8.02" transform="matrix(.69 0 0 .69 15.5 15.5)"/>
+                  <circle fill="#ffffff" cx="48.09" cy="13.32" r="6.8" transform="matrix(.69 0 0 .69 15.5 15.5)"/>
+                  <circle fill="#ffffff" cx="17.41" cy="-8.99" r="5.23" transform="matrix(.69 0 0 .69 15.5 15.5)"/>
+                  <circle fill="#ffffff" cx="47.39" cy="-17.01" r="4.36" transform="matrix(.69 0 0 .69 15.5 15.5)"/>
+                  <circle fill="#ffffff" cx="-7.17" cy="13.49" r="6.8" transform="matrix(.69 0 0 .69 15.5 15.5)"/>
+                  <circle fill="#ffffff" cx="-5.94" cy="75.72" r="11.5" transform="matrix(.69 0 0 .69 15.5 15.5)"/>
+                  <circle fill="#ffffff" cx="102.47" cy="75.72" r="11.5" transform="matrix(.69 0 0 .69 15.5 15.5)"/>
+                  <circle fill="#ffffff" cx="18.11" cy="100.64" r="11.5" transform="matrix(.69 0 0 .69 15.5 15.5)"/>
+                  <circle fill="#ffffff" cx="79.64" cy="100.64" r="11.5" transform="matrix(.69 0 0 .69 15.5 15.5)"/>
+                  <circle fill="#ffffff" cx="75.8" cy="61.25" r="11.5" transform="matrix(.69 0 0 .69 15.5 15.5)"/>
+                  <circle fill="#ffffff" cx="75.8" cy="28.14" r="11.5" transform="matrix(.69 0 0 .69 15.5 15.5)"/>
+                  <circle fill="#ffffff" cx="110.14" cy="44.17" r="11.5" transform="matrix(.69 0 0 .69 15.5 15.5)"/>
+                  <circle fill="#ffffff" cx="102.47" cy="14.19" r="11.5" transform="matrix(.69 0 0 .69 15.5 15.5)"/>
+                  <circle fill="#ffffff" cx="79.64" cy="-8.99" r="11.5" transform="matrix(.69 0 0 .69 15.5 15.5)"/>
+                  <circle fill="#ffffff" cx="21.07" cy="61.25" r="11.5" transform="matrix(.69 0 0 .69 15.5 15.5)"/>
+                  <circle fill="#ffffff" cx="49.31" cy="109.36" r="11.5" transform="matrix(.69 0 0 .69 15.5 15.5)"/>
+                  <circle fill="#ffffff" cx="49.31" cy="47.66" r="11.5" transform="matrix(.69 0 0 .69 15.5 15.5)"/>
+                </svg>
+              </svg>
+              <defs>
+                <filter id="colors2819678175">
+                  <feColorMatrix type="matrix" values="0 0 0 0 0.19921875  0 0 0 0 0.19921875  0 0 0 0 0.19921875  0 0 0 1 0" class="icon-fecolormatrix"/>
+                </filter>
+                <filter id="colorsf835324214">
+                  <feColorMatrix type="matrix" values="0 0 0 0 0.99609375  0 0 0 0 0.99609375  0 0 0 0 0.99609375  0 0 0 1 0" class="icon-fecolormatrix"/>
+                </filter>
+                <filter id="colorsb448569460">
+                  <feColorMatrix type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 1 0" class="icon-fecolormatrix"/>
+                </filter>
+              </defs>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <defs v-gra="od"/>
+</svg>
